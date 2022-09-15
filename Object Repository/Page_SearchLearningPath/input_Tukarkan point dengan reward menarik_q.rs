@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Tukarkan point dengan reward menarik_q</name>
+   <tag></tag>
+   <elementGuidId>a9eed23c-92d5-469c-9191-4dd4b260a17b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@name='q'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container-lg.mobile-nav__learning-path-route > form.search-course-form > input[name=&quot;q&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e857b1b4-149a-4081-9383-e3585db221c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>efd065d6-2f84-4ceb-adac-2d69023fa800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control search-course-form__input</value>
+      <webElementGuid>9b356bcd-9b1f-48b9-b7f6-b5722c9aa91c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>q</value>
+      <webElementGuid>11264137-dd9a-418f-97e4-7740db1d3011</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>397a1d62-7633-430d-b092-06eb420ac6d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Apa yang ingin Anda pelajari?</value>
+      <webElementGuid>abef1a07-cbd7-4023-8fd6-440b16a59db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Apa yang ingin Anda pelajari?</value>
+      <webElementGuid>b04c431f-a9c0-4d93-9120-9037c7373179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-nav&quot;)/div[@class=&quot;container-lg mobile-nav__learning-path-route&quot;]/form[@class=&quot;search-course-form&quot;]/input[@class=&quot;form-control search-course-form__input&quot;]</value>
+      <webElementGuid>4114a331-aaf0-4d19-b083-c0b5f4b43b14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name='q'])[2]</value>
+      <webElementGuid>832418c9-8379-4b8a-b490-ade8e405821b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='main-nav']/div[2]/form/input[2]</value>
+      <webElementGuid>b5ced127-e684-4d48-9f72-27db4a515431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/input[2]</value>
+      <webElementGuid>c31956c8-e9e7-4e87-96da-d73b385e9fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'search' and @name = 'q' and @placeholder = 'Apa yang ingin Anda pelajari?']</value>
+      <webElementGuid>96e9e975-fb97-44ca-86ca-a8f9137d33e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

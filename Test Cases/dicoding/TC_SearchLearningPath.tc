@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SearchLearningPath</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24d69948-ac6f-4a0c-947e-baafe7042866</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f92826ef-d82a-49df-b0b7-e43af93f7896</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f92826ef-d82a-49df-b0b7-e43af93f7896</id>
+      <masked>false</masked>
+      <name>classDicoding</name>
+   </variable>
+</TestCaseEntity>
